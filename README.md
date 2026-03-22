@@ -1,68 +1,71 @@
 🚀 Yatharth Kaushik
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer;Building+Real-World+AI+Systems;Computer+Vision+%7C+GenAI+%7C+Automation;Hackathon+Winner+%F0%9F%8F%86" /> </p> <p align="center"> <a href="https://github.com/Yatharth4005"> <img src="https://komarev.com/ghpvc/?username=Yatharth4005&label=Profile%20Views&color=0e75b6&style=flat" /> </a> <a href="https://github.com/Yatharth4005?tab=followers"> <img src="https://img.shields.io/github/followers/Yatharth4005?label=Followers&style=social" /> </a> </p>
-🧠 About Me
-+ AI/ML Engineer in the making @ BIT Mesra
-+ Obsessed with solving real-world problems using AI
-+ Built systems in Computer Vision, Anomaly Detection & GenAI
-+ Strong foundation in DSA + scalable system thinking
-⚔️ Tech Arsenal
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,java,js,c,react,nodejs,mongodb,sql,git" /> </p> <p align="center"> <img src="https://skillicons.dev/icons?i=opencv,tensorflow,pytorch" /> </p>
-ML Stack → Scikit-learn • Pandas • NumPy • YOLO • CNNs
-🚀 What I’ve Built
-🛣️ Pothole Detection (Computer Vision)
-⚡ 85% accuracy using YOLO
-📍 GPS tagging + automated reporting
-🚀 Detects 8 potholes/min
+AI/ML Engineer | Software Developer | Builder
+"Turning real-world problems into scalable AI-driven solutions."
+👨‍💻 About Me
+🎓 B.Tech in Artificial Intelligence @ BIT Mesra (2023–2027)
+🤖 AI/ML enthusiast with hands-on experience in Computer Vision, Anomaly Detection & Generative AI
+⚡ Passionate about building automation-driven and scalable systems
+🧠 Strong in Data Structures, Algorithms & System Thinking
+🛠️ Tech Stack
+
+Languages
+Python Java JavaScript C
+
+Frameworks & Tools
+React Node.js MongoDB SQL
+NumPy Pandas Scikit-learn OpenCV
+
+AI/ML
+Machine Learning Deep Learning CNN YOLO
+
+💼 Experience
+🏢 AI Project Intern — Tata Steel UISL
+📈 Improved memory usage prediction accuracy by 20%
+🔍 Processed 1000+ logs for anomaly detection
+⚙️ Automated monitoring workflows → reduced manual effort by 70%
+🌐 Web Dev Intern — CodSoft
+⚡ Built responsive web apps using HTML, CSS, JS
+🚀 Reduced page load time by 25%
+🚀 Featured Projects
+🛣️ Pothole Detection using YOLO
 
 🔗 https://github.com/Yatharth4005/pothole-detection
 
-📄 CLMS — GenAI Document Validation
-🤖 AI validation system
-📈 Accuracy: 25% → 99%
-🧠 Real-world automation use case
+Real-time detection pipeline
+📊 85% accuracy | Detects 8 potholes/min
+📍 GPS tagging + Excel automation
+📄 Contract Labor Management System (CLMS)
 
 🔗 https://github.com/Yatharth4005/CLMS
 
-⚡ Electricity Anomaly Detection
-📊 1000+ records analyzed
-🎯 80–85% precision
-⏱️ 90% reduction in manual work
+🤖 Generative AI-based document validation
+📈 Accuracy improved from 25% → 99%
+⚡ Electricity Usage Anomaly Detection
 
 🔗 https://github.com/Yatharth4005/Anomaly-Detection
 
-💼 Experience
-Tata Steel UISL:
-  role: AI Project Intern
-  impact:
-    - +20% prediction accuracy
-    - Automated monitoring (-70% manual work)
-    - 1000+ logs processed
-
-CodSoft:
-  role: Web Dev Intern
-  impact:
-    - 25% faster load time
-    - Built responsive apps
+📊 Analyzed 1000+ records
+🎯 80–85% precision
+⏱️ Reduced manual analysis by 90%
 🏆 Achievements
-
-🏆 Hackathon Winner — Automate Me If You Can
-🥈 Smart India Hackathon 2024 — 2nd Place
-📜 Microsoft Cybersecurity Certification
-
+🥇 Winner — Automate Me If You Can Hackathon ($100 + Interview Opportunity)
+🥈 Smart India Hackathon 2024 — 2nd Position (200+ participants)
+📜 Certified in Cybersecurity — Microsoft & LinkedIn
 🧑‍🚀 Leadership
 🎯 Campus Lead — Global AI Jaipur
-🧠 Lead — Microsoft Student Ambassadors
-⚙️ Senior Coordinator — Techvibes
-📊 GitHub Analytics
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Yatharth4005&show_icons=true&theme=tokyonight" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yatharth4005&theme=tokyonight" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yatharth4005&layout=compact&theme=tokyonight" /> </p>
-🌐 Connect
-<p align="center"> <a href="https://www.linkedin.com/in/yatharth-kaushik-0633a4290/"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /> </a> <a href="mailto:kaushiksp04@gmail.com"> <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" /> </a> <a href="https://github.com/Yatharth4005"> <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" /> </a> </p>
-⚡ Current Mission
-! Building AI systems that actually reduce human effort
-! Exploring LLMs + AI Agents + Automation pipelines
-! Shipping projects that win hackathons & scale to products
-🧩 Philosophy
-Build → Break → Learn → Scale → Repeat
-🧠 Quote I Live By
+🧠 Lead — Microsoft Student Ambassadors (BIT)
+⚙️ Senior Coordinator — Techvibes Technical Committee
+📈 GitHub Stats
+Building consistently. Learning aggressively. Shipping fast.
+🌐 Connect With Me
+💼 LinkedIn: https://www.linkedin.com/in/yatharth-kaushik-0633a4290/
+💻 GitHub: https://github.com/Yatharth4005
+📧 Email: kaushiksp04@gmail.com
+⚡ Fun Fact
 
-"Execution beats ideas. Every. Single. Time."
+I love building things that reduce human effort using AI — from detecting potholes to automating document validation 🚀
+
+🧠 Current Focus
+Scaling AI projects to production
+Exploring LLMs + AI Agents + Automation systems
+Building impactful hackathon-ready products
