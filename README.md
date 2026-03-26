@@ -1,6 +1,6 @@
 🚀 Yatharth Kaushik
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer;Building+Real-World+AI+Systems;Computer+Vision+%7C+GenAI+%7C+Automation;Hackathon+Winner+%F0%9F%8F%86" /> </p> <p align="center"> <a href="https://github.com/Yatharth4005"> <img src="https://komarev.com/ghpvc/?username=Yatharth4005&label=Profile%20Views&color=0e75b6&style=flat" /> </a> <a href="https://github.com/Yatharth4005?tab=followers"> <img src="https://img.shields.io/github/followers/Yatharth4005?label=Followers&style=social" /> </a> </p>
-🧠 About Me
+About Me
 + AI/ML Engineer in the making @ BIT Mesra
 + Obsessed with solving real-world problems using AI
 + Built systems in Computer Vision, Anomaly Detection & GenAI
