@@ -32,32 +32,6 @@ Python • Scikit-learn • Pandas • NumPy • OpenCV • TensorFlow • PyTor
 
 ---
 
-## Projects
-
-### Pothole Detection
-- Built a computer vision system using YOLO  
-- Achieved 85% detection accuracy  
-- Integrated GPS tagging with automated reporting  
-- Detects up to 8 potholes per minute  
-
-🔗 Repository: https://github.com/Yatharth4005/pothole-detection
-
-### CLMS — GenAI Document Validation
-- Developed an AI-powered validation system  
-- Improved validation accuracy from 25% to 99%  
-- Automated document verification workflow  
-
-🔗 Repository: https://github.com/Yatharth4005/CLMS
-
-### Electricity Anomaly Detection
-- Analyzed 1000+ electricity records  
-- Achieved 80–85% precision  
-- Reduced manual monitoring effort by 90%  
-
-🔗 Repository: https://github.com/Yatharth4005/Anomaly-Detection
-
----
-
 ## Experience
 
 ### Tata Steel UISL — AI Project Intern
