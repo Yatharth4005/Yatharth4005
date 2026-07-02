@@ -34,14 +34,21 @@ Python • Scikit-learn • Pandas • NumPy • OpenCV • TensorFlow • PyTor
 
 ## Experience
 
+### Jindal Steel Limited — Software & AI Intern
+- Developing a comprehensive plant overview dashboard for centralized monitoring and control
+- Reduced approximately **95% of manual operational effort** through automation and real-time visualization
+- Integrated data from multiple plants, machines, and mills into a single unified software platform
+- Enabled operators to monitor equipment health, KPIs, production metrics, and plant status from one interface
+- Designed scalable dashboards for real-time decision-making, improving operational efficiency and plant visibility
+
 ### Tata Steel UISL — AI Project Intern
-- Improved prediction accuracy by 20%  
-- Automated monitoring workflows  
-- Processed 1000+ operational logs  
+- Improved prediction accuracy by 20%
+- Automated monitoring workflows
+- Processed 1000+ operational logs
 
 ### CodSoft — Web Development Intern
-- Built responsive web applications  
-- Improved load performance by 25%  
+- Built responsive web applications
+- Improved load performance by 25%
 
 ---
 
