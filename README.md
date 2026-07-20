@@ -1,97 +1,101 @@
-# Hi, I'm Yatharth Kaushik
+# Hi, I'm Yatharth 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=4F46E5&center=true&vCenter=true&width=500&lines=AI%2FML+Engineer;Building+Real-World+AI+Systems;Computer+Vision+%7C+GenAI+%7C+Automation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=2500&pause=900&color=4F46E5&center=true&vCenter=true&width=650&lines=AI+Engineer;Building+Production+AI+Systems;Computer+Vision+•+LLMs+•+Automation" />
 </p>
 
 <p align="center">
+  <a href="https://www.yatharthkaushik.me">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
   <a href="https://github.com/Yatharth4005">
-    <img src="https://komarev.com/ghpvc/?username=Yatharth4005&label=Profile+Views&color=4F46E5&style=flat" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://www.linkedin.com/in/yatharth-kaushik-0633a4290/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:kaushiksp04@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## About Me
+## About
 
-- AI/ML enthusiast pursuing B.Tech at BIT Mesra  
-- Passionate about solving real-world problems using AI  
-- Experience in Computer Vision, Anomaly Detection, and GenAI  
-- Strong interest in DSA, scalable systems, and automation  
+I'm an AI Engineering student at **BIT Mesra** passionate about building software that combines AI, automation, and scalable engineering.
+
+I enjoy turning complex workflows into intelligent systems—from industrial operations dashboards to computer vision applications and LLM-powered products.
 
 ---
 
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,c,react,nodejs,mongodb,sql,git" />
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,react,nextjs,nodejs,express,mongodb,postgres,docker,redis,git,linux,tensorflow,pytorch" />
 </p>
 
-**ML & Data Tools:**  
-Python • Scikit-learn • Pandas • NumPy • OpenCV • TensorFlow • PyTorch • YOLO
+**AI & ML**
+
+`LLMs` • `Computer Vision` • `YOLO` • `PyTorch` • `TensorFlow` • `Scikit-Learn` • `OpenCV` • `Pandas` • `NumPy`
 
 ---
 
-## Experience
+# Featured Projects
 
-### Jindal Steel Limited — Software & AI Intern
-- Developing a comprehensive plant overview dashboard for centralized monitoring and control
-- Reduced approximately **95% of manual operational effort** through automation and real-time visualization
-- Integrated data from multiple plants, machines, and mills into a single unified software platform
-- Enabled operators to monitor equipment health, KPIs, production metrics, and plant status from one interface
-- Designed scalable dashboards for real-time decision-making, improving operational efficiency and plant visibility
+### 🏭 PRISM Operations Portal
 
-### Tata Steel UISL — AI Project Intern
-- Improved prediction accuracy by 20%
-- Automated monitoring workflows
-- Processed 1000+ operational logs
+An enterprise AI-powered operations platform designed for industrial plants.
 
-### CodSoft — Web Development Intern
-- Built responsive web applications
-- Improved load performance by 25%
+**Highlights**
+
+- 📊 Unified monitoring dashboard for multiple plants and departments
+- ⚡ Reduced manual operational effort through automation
+- 🤖 AI-powered insights and KPI visualization
+- 📈 Real-time production, maintenance and operational analytics
+- 🔔 Intelligent notifications and workflow management
+- 🧩 Modular architecture built for enterprise scalability
 
 ---
 
-## Achievements
+### 🚀 Lamefolio AI
 
-- Hackathon Winner — Automate Me If You Can  
-- Smart India Hackathon 2024 — 2nd Place  
-- Microsoft Cybersecurity Certification  
+Generate developer portfolios using AI with GitHub and Notion integration.
 
----
-
-## Leadership
-
-- Campus Lead — Global AI Jaipur  
-- Microsoft Student Ambassador Lead  
-- Senior Coordinator — Techvibes  
+> LLMs • React • Next.js • AI Workflows
 
 ---
 
-## Connect
+### 📄 CLMS Document AI
+
+GenAI-powered document validation system capable of automating verification workflows with high accuracy.
+
+---
+
+### 👁️ Pothole Detection
+
+Real-time road damage detection using YOLO for smart infrastructure monitoring.
+
+---
+
+## Currently Building
+
+- 🤖 AI Agents
+- 🧠 LLM Applications
+- ⚡ Automation Platforms
+- 🏭 Industrial AI Solutions
+- ☁️ Production AI Systems
+
+---
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yatharth-kaushik-0633a4290/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:kaushiksp04@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/Yatharth4005">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-  </a>
+
+*"Build software that makes people's work easier."*
+
 </p>
 
 ---
 
-## Current Focus
+# Philosophy
 
-- Building AI systems that reduce manual effort  
-- Exploring LLMs, AI Agents, and automation pipelines  
-- Creating impactful projects for real-world deployment  
-
----
-
-## Philosophy
-
-> Build → Learn → Improve → Scale
+> **Build → Learn → Improve → Scale**
